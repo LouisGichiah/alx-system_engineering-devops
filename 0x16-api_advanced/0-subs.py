@@ -4,7 +4,7 @@ import requests
 import sys
 def number_of_subscribers(subreddit):
     """If not a valid subreddit, return 0."""
-    header = {'User-Agent': 'xica369'}
+    header = {'User-Agent': 'LouisGichiah'}
     get_url = "https://www.reddit.com/r/{}/about.json".format(subreddit)
     response = requests.get(get_url, headers=header, allow_redirects=False)
 
