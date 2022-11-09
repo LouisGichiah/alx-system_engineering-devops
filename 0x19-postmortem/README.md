@@ -8,6 +8,6 @@ The error was realized on Tuesday 4th October 1000 hours (East Africa Time) when
 The problem was as a result of a technical error that saw one of the junior staff accidentally withdraw all of facebooks Border Gateway Protocal routes from the internet which resulted in the Facebook domain disappearance from the internet. The domain was restored after paying a fee and the systems engineers worked hard to set up the domain and configure it inorder to bring operations back to normal within a short time frame.
 
 ## Measures against such problem in future
--Juniour Staff should work under the direct instruction of the senior engineers
--Limit access to important systems to experts 
+- Juniour Staff should work under the direct instruction of the senior engineers
+- Limit access to important systems to experts 
 
