@@ -1,4 +1,4 @@
-![ezcv logo](https://raw.githubusercontent.com/LouisGichiah/0x19-postmortem/main/image.jpg)
+![Server](https://user-images.githubusercontent.com/97097380/201726473-b426b873-bb6d-4c69-9845-00e5612d563c.jpg)
 
 # META Platform major DNS failure Postmortem.
 On 4th October, it was reported that the Meta platforms specifically Whatsapp was returning 'Make sure your computer has an active internet connection, error message. The issue was linked to the to BGP Border Gateway Protocal which helps one network find the best route to a different network leading to major DNS failure that affected the whole platform globally.
